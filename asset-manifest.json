@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/muproject990/frontend-sneaker-vault/static/css/main.351011c9.css",
+    "main.js": "/muproject990/frontend-sneaker-vault/static/js/main.1a4ee75b.js",
+    "static/js/620.dd1c0de0.chunk.js": "/muproject990/frontend-sneaker-vault/static/js/620.dd1c0de0.chunk.js",
+    "static/js/610.e70b4515.chunk.js": "/muproject990/frontend-sneaker-vault/static/js/610.e70b4515.chunk.js",
+    "static/js/479.36989361.chunk.js": "/muproject990/frontend-sneaker-vault/static/js/479.36989361.chunk.js",
+    "static/js/303.79ab4422.chunk.js": "/muproject990/frontend-sneaker-vault/static/js/303.79ab4422.chunk.js",
+    "index.html": "/muproject990/frontend-sneaker-vault/index.html",
+    "main.351011c9.css.map": "/muproject990/frontend-sneaker-vault/static/css/main.351011c9.css.map",
+    "main.1a4ee75b.js.map": "/muproject990/frontend-sneaker-vault/static/js/main.1a4ee75b.js.map",
+    "620.dd1c0de0.chunk.js.map": "/muproject990/frontend-sneaker-vault/static/js/620.dd1c0de0.chunk.js.map",
+    "610.e70b4515.chunk.js.map": "/muproject990/frontend-sneaker-vault/static/js/610.e70b4515.chunk.js.map",
+    "479.36989361.chunk.js.map": "/muproject990/frontend-sneaker-vault/static/js/479.36989361.chunk.js.map",
+    "303.79ab4422.chunk.js.map": "/muproject990/frontend-sneaker-vault/static/js/303.79ab4422.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.351011c9.css",
+    "static/js/main.1a4ee75b.js"
+  ]
+}
